@@ -1,0 +1,148 @@
+exercise,body_part,sex,level_1,image_path,gif_img,peso,altura,doenca,obj
+Rosca direta,braço,homem,básico,IMAGEM-rosca-direta-com-halteres-dados.png,GIF-rosca-biceps-direta-na-barra-ez.webp,68,1.68,asma,peso
+Rosca direta,braço,mulher,básico,IMAGEM-rosca-direta-com-halteres-dados.png,GIF-rosca-biceps-direta-na-barra-ez.webp,68,1.68,asma,estetica
+Tríceps pulley,braço,mulher,básico,IMAGEM-triceps-pulley-1572976383678_v2_1254x837.jpg,GIF-triceps-puxada-no-pulley.webp,55,1.65,nenhuma,saude
+Tríceps pulley,braço,homem,básico,IMAGEM-triceps-pulley-1572976383678_v2_1254x837.jpg,GIF-triceps-puxada-no-pulley.webp,55,1.65,nenhuma,peso
+Rosca martelo,braço,homem,intermediário,IMAGEM-rosca-martelo-2.webp,GIF-rosca-biceps-martelo-com-halteres-no-banco-inclinado.webp,75,1.75,Dor nas costas,peso
+Rosca martelo,braço,mulher,intermediário,IMAGEM-rosca-martelo-2.webp,GIF-rosca-biceps-martelo-com-halteres-no-banco-inclinado.webp,75,1.75,Dor nas costas,saude
+Rosca concentrada,braço,mulher,avançado,IMAGEM-Rosca-concentrada.webp,GIF-rosca-concentrada-unilateral-com-halter.webp,62,1.70,nenhuma,peso
+Rosca concentrada,braço,homem,avançado,IMAGEM-Rosca-concentrada.webp,GIF-rosca-concentrada-unilateral-com-halter.webp,62,1.70,nenhuma,saude
+Tríceps francês,braço,homem,avançado,IMAGEM-triceps-frances.webp,GIF-triceps-frances.webp,75,1.80,nenhuma,estetica
+Tríceps francês,braço,mulher,avançado,IMAGEM-triceps-frances.webp,GIF-triceps-frances.webp,75,1.80,nenhuma,peso
+Rosca Scott,braço,mulher,básico,IMAGEM-rosca-scott-musculacao-exercicio-1574704252441_v2_4x3.jpg,GIF-rosca-scott.webp,65,1.68,nenhuma,saude
+Rosca Scott,braço,homem,básico,IMAGEM-rosca-scott-musculacao-exercicio-1574704252441_v2_4x3.jpg,GIF-rosca-scott.webp,65,1.68,nenhuma,estetica
+Tríceps testa,braço,homem,intermediário,IMAGEM-954015187-istock-515434722.webp,GIF-triceps-testa.webp,72,1.75,nenhuma
+Tríceps testa,braço,mulher,intermediário,IMAGEM-954015187-istock-515434722.webp,GIF-triceps-testa.webp,72,1.75,nenhuma
+Tríceps coice,braço,mulher,básico,IMAGEM-triceps-coice.jpg,GIF-triceps-coice.webp,58,1.65,nenhuma
+Tríceps coice,braço,homem,básico,IMAGEM-triceps-coice.jpg,GIF-triceps-coice.webp,58,1.65,nenhuma
+Rosca inversa,braço,homem,avançado,IMAGEM-rosca-inversa.jpg,GIF-rosca-inversa.webp,80,1.78,nenhuma
+Rosca inversa,braço,mulher,avançado,IMAGEM-rosca-inversa.jpg,GIF-rosca-inversa.webp,80,1.78,nenhuma
+Rosca 21,braço,mulher,intermediário,IMAGEM-rosca-21.jpg,GIF-rosca-21.webp,60,1.67,nenhuma
+Rosca 21,braço,homem,intermediário,IMAGEM-rosca-21.jpg,GIF-rosca-21.webp,60,1.67,nenhuma
+Tríceps mergulho,braço,homem,básico,IMAGEM-triceps-mergulho-final.jpg,GIF-triceps-mergulho.webp,70,1.72,nenhuma
+Tríceps mergulho,braço,mulher,básico,IMAGEM-triceps-mergulho-final.jpg,GIF-triceps-mergulho.webp,70,1.72,nenhuma
+Rosca com barra,braço,mulher,básico,IMAGEM-rosca-com-barra.jpg,GIF-rosca-com-barra.webp,55,1.65,nenhuma
+Rosca com barra,braço,homem,básico,IMAGEM-rosca-com-barra.jpg,GIF-rosca-com-barra.webp,55,1.65,nenhuma
+Agachamento,perna,homem,básico,IMAGEM-agachamento.jpg,GIF-agachamento.webp,75,1.80,nenhuma
+Agachamento,perna,mulher,básico,IMAGEM-agachamento.jpg,GIF-agachamento.webp,75,1.80,nenhuma
+Leg press,perna,mulher,básico,IMAGEM-leg-press.jpg,GIF-leg-press.webp,60,1.65,nenhuma
+Leg press,perna,homem,básico,IMAGEM-leg-press.jpg,GIF-leg-press.webp,60,1.65,nenhuma
+Extensão de perna,perna,homem,intermediário,IMAGEM-extensao-de-perna.jpg,GIF-extensao-de-perna.webp,72,1.75,nenhuma
+Extensão de perna,perna,mulher,intermediário,IMAGEM-extensao-de-perna.jpg,GIF-extensao-de-perna.webp,72,1.75,nenhuma
+Flexão de perna,perna,mulher,avançado,IMAGEM-flexao-de-perna.jpg,GIF-flexao-de-perna.webp,58,1.68,nenhuma
+Flexão de perna,perna,homem,avançado,IMAGEM-flexao-de-perna.jpg,GIF-flexao-de-perna.webp,58,1.68,nenhuma
+Panturrilha em pé,perna,homem,básico,IMAGEM-panturrilha-em-pe.jpg,GIF-panturrilha-em-pe.webp,70,1.78,nenhumaq
+Passada,perna,mulher,intermediário,IMAGEM-passada.jpg,GIF-passada.webp,65,1.67,nenhuma
+Passada,perna,homem,intermediário,IMAGEM-passada.jpg,GIF-passada.webp,65,1.67,nenhuma
+Cadeira abdutora,perna,homem,avançado,IMAGEM-cadeira-abdutora.jpg,GIF-cadeira-abdutora.webp,75,1.80,nenhuma
+Cadeira abdutora,perna,mulher,avançado,IMAGEM-cadeira-abdutora.jpg,GIF-cadeira-abdutora.webp,75,1.80,nenhuma
+Cadeira adutora,perna,mulher,básico,IMAGEM-cadeira-adutora.jpg,GIF-cadeira-adutora.webp,55,1.65,nenhuma
+Cadeira adutora,perna,homem,básico,IMAGEM-cadeira-adutora.jpg,GIF-cadeira-adutora.webp,55,1.65,nenhuma
+Elevação de panturrilha sentado,perna,homem,intermediário,IMAGEM-elevacao-de-panturrilha-sentado.jpg,GIF-elevacao-de-panturrilha-sentado.webp,72,1.75,nenhuma
+Elevação de panturrilha sentado,perna,mulher,intermediário,IMAGEM-elevacao-de-panturrilha-sentado.jpg,GIF-elevacao-de-panturrilha-sentado.webp,72,1.75,nenhuma
+Agachamento búlgaro,perna,mulher,avançado,IMAGEM-agachamento-bulgaro.jpg,GIF-agachamento-bulgaro.webp,60,1.70,nenhuma
+Agachamento búlgaro,perna,homem,avançado,IMAGEM-agachamento-bulgaro.jpg,GIF-agachamento-bulgaro.webp,60,1.70,nenhuma
+Afundo,perna,homem,básico,IMAGEM-afundo.jpg,GIF-afundo.webp,75,1.80,nenhuma
+Afundo,perna,mulher,básico,IMAGEM-afundo.jpg,GIF-afundo.webp,75,1.80,nenhuma
+Cadeira extensora,perna,mulher,básico,IMAGEM-cadeira-extensora.jpg,GIF-cadeira-extensora.webp,60,1.65,nenhuma
+Cadeira extensora,perna,homem,básico,IMAGEM-cadeira-extensora.jpg,GIF-cadeira-extensora.webp,60,1.65,nenhuma
+Desenvolvimento com halteres,ombro,homem,básico,IMAGEM-desenvolvimento-com-halteres.jpg,GIF-desenvolvimento-com-halteres.webp,75,1.80,nenhuma
+Desenvolvimento com halteres,ombro,mulher,básico,IMAGEM-desenvolvimento-com-halteres.jpg,GIF-desenvolvimento-com-halteres.webp,75,1.80,nenhuma
+Elevação lateral,ombro,mulher,básico,IMAGEM-elevacao-lateral.jpg,GIF-elevacao-lateral.webp,60,1.65,nenhuma
+Elevação lateral,ombro,homem,básico,IMAGEM-elevacao-lateral.jpg,GIF-elevacao-lateral.webp,60,1.65,nenhuma
+Elevação frontal,ombro,homem,intermediário,IMAGEM-elevacao-frontal.jpg,GIF-elevacao-frontal.webp,72,1.75,nenhuma
+Elevação frontal,ombro,mulher,intermediário,IMAGEM-elevacao-frontal.jpg,GIF-elevacao-frontal.webp,72,1.75,nenhuma
+Desenvolvimento Arnold,ombro,mulher,avançado,IMAGEM-desenvolvimento-arnold.jpg,GIF-desenvolvimento-arnold.webp,58,1.68,nenhuma
+Desenvolvimento Arnold,ombro,homem,avançado,IMAGEM-desenvolvimento-arnold.jpg,GIF-desenvolvimento-arnold.webp,58,1.68,nenhuma
+Crucifixo inverso,ombro,homem,básico,IMAGEM-crucifixo-inverso.jpg,GIF-crucifixo-inverso.webp,70,1.78,nenhuma
+Crucifixo inverso,ombro,mulher,básico,IMAGEM-crucifixo-inverso.jpg,GIF-crucifixo-inverso.webp,70,1.78,nenhuma
+Desenvolvimento militar,ombro,mulher,intermediário,IMAGEM-desenvolvimento-militar.jpg,GIF-desenvolvimento-militar.webp,65,1.67,nenhuma
+Desenvolvimento militar,ombro,homem,intermediário,IMAGEM-desenvolvimento-militar.jpg,GIF-desenvolvimento-militar.webp,65,1.67,nenhuma
+Elevação lateral inclinada,ombro,homem,avançado,IMAGEM-elevacao-lateral-inclinada.jpg,GIF-elevacao-lateral-inclinada.webp,75,1.80,nenhuma
+Elevação lateral inclinada,ombro,mulher,avançado,IMAGEM-elevacao-lateral-inclinada.jpg,GIF-elevacao-lateral-inclinada.webp,75,1.80,nenhuma
+Desenvolvimento com barra,ombro,mulher,básico,IMAGEM-desenvolvimento-com-barra.jpg,GIF-desenvolvimento-com-barra.webp,55,1.65,nenhuma
+Desenvolvimento com barra,ombro,homem,básico,IMAGEM-desenvolvimento-com-barra.jpg,GIF-desenvolvimento-com-barra.webp,55,1.65,nenhuma
+Supino reto,peito,homem,básico,IMAGEM-supino-reto.jpg,GIF-supino-reto.webp,75,1.80,nenhuma
+Supino reto,peito,mulher,básico,IMAGEM-supino-reto.jpg,GIF-supino-reto.webp,75,1.80,nenhuma
+Crucifixo com halteres,peito,mulher,básico,IMAGEM-crucifixo-com-halteres.jpg,GIF-crucifixo-com-halteres.webp,60,1.65,nenhuma
+Crucifixo com halteres,peito,homem,básico,IMAGEM-crucifixo-com-halteres.jpg,GIF-crucifixo-com-halteres.webp,60,1.65,nenhuma
+Supino inclinado,peito,homem,intermediário,IMAGEM-supino-inclinado.jpg,GIF-supino-inclinado.webp,72,1.75,nenhuma
+Supino inclinado,peito,mulher,intermediário,IMAGEM-supino-inclinado.jpg,GIF-supino-inclinado.webp,72,1.75,nenhuma
+Crucifixo inclinado,peito,mulher,avançado,IMAGEM-crucifixo-inclinado.jpg,GIF-crucifixo-inclinado.webp,58,1.68,nenhuma
+Crucifixo inclinado,peito,homem,avançado,IMAGEM-crucifixo-inclinado.jpg,GIF-crucifixo-inclinado.webp,58,1.68,nenhuma
+Peck deck,peito,homem,básico,IMAGEM-peck-deck.jpg,GIF-peck-deck.webp,70,1.78,nenhuma
+Peck deck,peito,mulher,básico,IMAGEM-peck-deck.jpg,GIF-peck-deck.webp,70,1.78,nenhuma
+Flexão de braço,peito,mulher,intermediário,IMAGEM-flexao-de-braco.jpg,GIF-flexao-de-braco.webp,65,1.67,nenhuma
+Flexão de braço,peito,homem,intermediário,IMAGEM-flexao-de-braco.jpg,GIF-flexao-de-braco.webp,65,1.67,nenhuma
+Crucifixo inverso com halteres,peito,homem,avançado,IMAGEM-crucifixo-inverso-com-halteres.jpg,GIF-crucifixo-inverso-com-halteres.webp,75,1.80,nenhuma
+Crucifixo inverso com halteres,peito,mulher,avançado,IMAGEM-crucifixo-inverso-com-halteres.jpg,GIF-crucifixo-inverso-com-halteres.webp,75,1.80,nenhuma
+Supino declinado,peito,mulher,básico,IMAGEM-supino-declinado.jpg,GIF-supino-declinado.webp,55,1.65,nenhuma
+Supino declinado,peito,homem,básico,IMAGEM-supino-declinado.jpg,GIF-supino-declinado.webp,55,1.65,nenhuma
+Abdominal supra,abdômen,homem,básico,IMAGEM-abdominal-supra.jpg,GIF-abdominal-supra.webp,75,1.80,nenhuma
+Abdominal supra,abdômen,mulher,básico,IMAGEM-abdominal-supra.jpg,GIF-abdominal-supra.webp,75,1.80,nenhuma
+Abdominal infra,abdômen,mulher,básico,IMAGEM-abdominal-infra.jpg,GIF-abdominal-infra.webp,60,1.65,nenhuma
+Abdominal infra,abdômen,homem,básico,IMAGEM-abdominal-infra.jpg,GIF-abdominal-infra.webp,60,1.65,nenhuma
+Prancha abdominal,abdômen,homem,intermediário,IMAGEM-prancha-abdominal.jpg,GIF-prancha-abdominal.webp,72,1.75,nenhuma
+Prancha abdominal,abdômen,mulher,intermediário,IMAGEM-prancha-abdominal.jpg,GIF-prancha-abdominal.webp,72,1.75,nenhuma
+Abdominal bicicleta,abdômen,mulher,avançado,IMAGEM-abdominal-bicicleta.jpg,GIF-abdominal-bicicleta.webp,58,1.68,nenhuma
+Abdominal bicicleta,abdômen,homem,avançado,IMAGEM-abdominal-bicicleta.jpg,GIF-abdominal-bicicleta.webp,58,1.68,nenhuma
+Abdominal oblíquo,abdômen,homem,básico,IMAGEM-abdominal-obliquo.jpg,GIF-abdominal-obliquo.webp,70,1.78,nenhuma
+Abdominal oblíquo,abdômen,mulher,básico,IMAGEM-abdominal-obliquo.jpg,GIF-abdominal-obliquo.webp,70,1.78,nenhuma
+Abdominal com elevação de pernas,abdômen,mulher,intermediário,IMAGEM-abdominal-com-elevacao-de-pernas.jpg,GIF-abdominal-com-elevacao-de-pernas.webp,65,1.67,nenhuma
+Abdominal com elevação de pernas,abdômen,homem,intermediário,IMAGEM-abdominal-com-elevacao-de-pernas.jpg,GIF-abdominal-com-elevacao-de-pernas.webp,65,1.67,nenhuma
+Abdominal remador,abdômen,homem,avançado,IMAGEM-abdominal-remador.jpg,GIF-abdominal-remador.webp,75,1.80,nenhuma
+Abdominal remador,abdômen,mulher,avançado,IMAGEM-abdominal-remador.jpg,GIF-abdominal-remador.webp,75,1.80,nenhuma
+Abdominal com rotação,abdômen,mulher,básico,IMAGEM-abdominal-com-rotacao.jpg,GIF-abdominal-com-rotacao.webp,55,1.65,nenhuma
+Abdominal com rotação,abdômen,homem,básico,IMAGEM-abdominal-com-rotacao.jpg,GIF-abdominal-com-rotacao.webp,55,1.65,nenhuma
+Abdominal com elevação lateral,abdômen,homem,intermediário,IMAGEM-abdominal-com-elevacao-lateral.jpg,GIF-abdominal-com-elevacao-lateral.webp,72,1.75,nenhuma
+Abdominal com elevação lateral,abdômen,mulher,intermediário,IMAGEM-abdominal-com-elevacao-lateral.jpg,GIF-abdominal-com-elevacao-lateral.webp,72,1.75,nenhuma
+Abdominal com elevação de tronco,abdômen,mulher,avançado,IMAGEM-abdominal-com-elevacao-de-tronco.jpg,GIF-abdominal-com-elevacao-de-tronco.webp,58,1.68,nenhuma
+Abdominal com elevação de tronco,abdômen,homem,avançado,IMAGEM-abdominal-com-elevacao-de-tronco.jpg,GIF-abdominal-com-elevacao-de-tronco.webp,58,1.68,nenhuma
+Ponte glútea,glúteo,homem,básico,IMAGEM-ponte-glutea.jpg,GIF-ponte-glutea.webp,75,1.80,nenhuma
+Ponte glútea,glúteo,mulher,básico,IMAGEM-ponte-glutea.jpg,GIF-ponte-glutea.webp,75,1.80,nenhuma
+Elevação pélvica,glúteo,mulher,básico,IMAGEM-elevacao-pelvica.jpg,GIF-elevacao-pelvica.webp,60,1.65,nenhuma
+Elevação pélvica,glúteo,homem,básico,IMAGEM-elevacao-pelvica.jpg,GIF-elevacao-pelvica.webp,60,1.65,nenhuma
+Agachamento sumô,glúteo,homem,intermediário,IMAGEM-agachamento-sumo.jpg,GIF-agachamento-sumo.webp,72,1.75,nenhuma
+Agachamento sumô,glúteo,mulher,intermediário,IMAGEM-agachamento-sumo.jpg,GIF-agachamento-sumo.webp,72,1.75,nenhuma
+Cadeira abdutora,glúteo,mulher,avançado,IMAGEM-cadeira-abdutora.jpg,GIF-cadeira-abdutora.webp,58,1.68,nenhuma
+Cadeira abdutora,glúteo,homem,avançado,IMAGEM-cadeira-abdutora.jpg,GIF-cadeira-abdutora.webp,58,1.68,nenhuma
+Afundo com salto,glúteo,homem,básico,IMAGEM-afundo-com-salto.jpg,GIF-afundo-com-salto.webp,70,1.78,nenhuma
+Afundo com salto,glúteo,mulher,básico,IMAGEM-afundo-com-salto.jpg,GIF-afundo-com-salto.webp,70,1.78,nenhuma
+Elevação de quadril,glúteo,mulher,intermediário,IMAGEM-elevacao-de-quadril.jpg,GIF-elevacao-de-quadril.webp,65,1.67,nenhuma
+Elevação de quadril,glúteo,homem,intermediário,IMAGEM-elevacao-de-quadril.jpg,GIF-elevacao-de-quadril.webp,65,1.67,nenhuma
+Agachamento com salto,glúteo,homem,avançado,IMAGEM-agachamento-com-salto.jpg,GIF-agachamento-com-salto.webp,75,1.80,nenhuma
+Agachamento com salto,glúteo,mulher,avançado,IMAGEM-agachamento-com-salto.jpg,GIF-agachamento-com-salto.webp,75,1.80,nenhuma
+Cadeira extensora,glúteo,mulher,básico,IMAGEM-cadeira-extensora.jpg,GIF-cadeira-extensora.webp,55,1.65,nenhuma
+Cadeira extensora,glúteo,homem,básico,IMAGEM-cadeira-extensora.jpg,GIF-cadeira-extensora.webp,55,1.65,nenhuma
+Elevação de quadril com uma perna,glúteo,homem,intermediário,IMAGEM-elevacao-de-quadril-com-uma-perna.jpg,GIF-elevacao-de-quadril-com-uma-perna.webp,72,1.75,nenhuma
+Elevação de quadril com uma perna,glúteo,mulher,intermediário,IMAGEM-elevacao-de-quadril-com-uma-perna.jpg,GIF-elevacao-de-quadril-com-uma-perna.webp,72,1.75,nenhuma
+Cadeira adutora,glúteo,mulher,avançado,IMAGEM-cadeira-adutora.jpg,GIF-cadeira-adutora.webp,60,1.70,nenhuma
+Cadeira adutora,glúteo,homem,avançado,IMAGEM-cadeira-adutora.jpg,GIF-cadeira-adutora.webp,60,1.70,nenhuma
+Levantamento terra,costas,homem,básico,IMAGEM-levantamento-terra.jpg,GIF-levantamento-terra.webp,75,1.80,nenhuma
+Levantamento terra,costas,mulher,básico,IMAGEM-levantamento-terra.jpg,GIF-levantamento-terra.webp,75,1.80,nenhuma
+Remada curvada,costas,mulher,básico,IMAGEM-remada-curvada.jpg,GIF-remada-curvada.webp,60,1.65,nenhuma
+Remada curvada,costas,homem,básico,IMAGEM-remada-curvada.jpg,GIF-remada-curvada.webp,60,1.65,nenhuma
+Puxada alta,costas,homem,intermediário,IMAGEM-puxada-alta.jpg,GIF-puxada-alta.webp,72,1.75,nenhuma
+Puxada alta,costas,mulher,intermediário,IMAGEM-puxada-alta.jpg,GIF-puxada-alta.webp,72,1.75,nenhuma
+Remada cavalinho,costas,mulher,avançado,IMAGEM-remada-cavalinho.jpg,GIF-remada-cavalinho.webp,58,1.68,nenhuma
+Remada cavalinho,costas,homem,avançado,IMAGEM-remada-cavalinho.jpg,GIF-remada-cavalinho.webp,58,1.68,nenhuma
+Remada unilateral,costas,homem,básico,IMAGEM-remada-unilateral.jpg,GIF-remada-unilateral.webp,70,1.78,nenhuma
+Remada unilateral,costas,mulher,básico,IMAGEM-remada-unilateral.jpg,GIF-remada-unilateral.webp,70,1.78,nenhuma
+Remada baixa,costas,mulher,intermediário,IMAGEM-remada-baixa.jpg,GIF-remada-baixa.webp,65,1.67,nenhuma
+Remada baixa,costas,homem,intermediário,IMAGEM-remada-baixa.jpg,GIF-remada-baixa.webp,65,1.67,nenhuma
+Puxada frontal,costas,homem,avançado,IMAGEM-puxada-frontal.jpg,GIF-puxada-frontal.webp,75,1.80,nenhuma
+Puxada frontal,costas,mulher,avançado,IMAGEM-puxada-frontal.jpg,GIF-puxada-frontal.webp,75,1.80,nenhuma
+Pulldown,costas,mulher,básico,IMAGEM-pulldown.jpg,GIF-pulldown.webp,55,1.65,nenhuma
+Pulldown,costas,homem,básico,IMAGEM-pulldown.jpg,GIF-pulldown.webp,55,1.65,nenhuma
+Remada alta,costas,homem,intermediário,IMAGEM-remada-alta.jpg,GIF-remada-alta.webp,72,1.75,nenhuma
+Remada alta,costas,mulher,intermediário,IMAGEM-remada-alta.jpg,GIF-remada-alta.webp,72,1.75,nenhuma
+Remada baixa curvada,costas,homem,avançado,IMAGEM-remada-baixa-curvada.jpg,GIF-remada-baixa-curvada.webp,58,1.68,nenhuma
+Remada baixa curvada,costas,mulher,avançado,IMAGEM-remada-baixa-curvada.jpg,GIF-remada-baixa-curvada.webp,58,1.68,nenhuma
+Puxada fechada,costas,homem,básico,IMAGEM-puxada-fechada.jpg,GIF-puxada-fechada.webp,75,1.80,nenhuma
+Puxada fechada,costas,mulher,básico,IMAGEM-puxada-fechada.jpg,GIF-puxada-fechada.webp,75,1.80,nenhuma
+Puxada aberta,costas,mulher,básico,IMAGEM-puxada-aberta.jpg,GIF-puxada-aberta.webp,60,1.65,nenhuma
+Puxada aberta,costas,homem,básico,IMAGEM-puxada-aberta.jpg,GIF-puxada-aberta.webp,60,1.65,nenhuma
+Puxada cruzada,costas,homem,intermediário,IMAGEM-puxada-cruzada.jpg,GIF-puxada-cruzada.webp,72,1.75,nenhuma
+Puxada cruzada,costas,mulher,intermediário,IMAGEM-puxada-cruzada.jpg,GIF-puxada-cruzada.webp,72,1.75,nenhuma
+Remada curvada com barra,costas,homem,avançado,IMAGEM-remada-curvada-com-barra.jpg,GIF-remada-curvada-com-barra.webp,58,1.68,nenhuma
+Remada curvada com barra,costas,mulher,avançado,IMAGEM-remada-curvada-com-barra.jpg,GIF-remada-curvada-com-barra.webp,58,1.68,nenhuma

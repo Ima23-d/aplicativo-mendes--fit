@@ -1,0 +1,8 @@
+alimentos,dias,restricao,preferencia,vegano,doença_alimentar,objetivo,partes,receita,carboidratos,proteinas,imagem_alimento,etapas,gordura,vitamina,acuçar,video
+Pão,segunda,não,não,não,não,fisico,cafe da manhã,farinha,25,10,pao.png,cafe da manha,3 g,A,3 g,Pão.mp4
+feijão,segunda,não,não,não,não,fisico,almoço,feijão e arroz,25,40,feijao.png,lanche1,5 g,B,3 g,https://user-images.githubusercontent.com/28951144/229373709-603a7a89-2105-4e1b-a5a5-a6c3567c9a59.mp4
+rabanada,segunda,não,não,não,não,fisico,lanche,banana,50,70,,almoço,10 g,C,5 g
+biscoito,segunda,não,não,não,não,fisico,lanche,chocolate,70,50,,lanche2,8 g,D,7 g
+banan,segunda,não,não,não,não,fisico,jantar,banana,60,10,,jantar,1 g,E,9 g 
+maça,sabado,não,não,não,fisico,lanche,maça,50,20,10,,lanche3
+maça,domingo,não,não,não,não,fisico,jantar,maça,40,20,,cafe da manha
